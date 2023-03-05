@@ -18,7 +18,7 @@ I'm a seasoned (heavy on the garlic) "SRE", who enjoys solving complex problems 
 * 🍎 Tech that facilitates knowledge-building, and educational equity. 
 * 🌍 Tech that enables the exploration of our planet.
 * 🌽 Tech that optimizes agricultural output, and promotes sustainable practices. 
-* 🧘🏼‍♀️ Tech that calms us the fuck down. (Mindfulness)
+* 🧘🏼‍♀️ Tech that calms us down. (Mindfulness)
 
 ***
 
