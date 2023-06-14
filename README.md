@@ -22,5 +22,3 @@ I'm a seasoned (heavy on the garlic) "SRE", who enjoys solving complex problems 
 
 ***
 
-## Current Role
-```Site Reliability Manager @ Weedmaps```
