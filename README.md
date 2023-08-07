@@ -3,9 +3,9 @@
 ## Active Projects 🛰️
 
 * Creating Discord Bots for a personal server.
-* Infrastructure smoke tests for Kubernetes.
-* Learning more about Algorithms
-* Fleshing out the rules for a table-top game inspired by the Fire Emblem game series.
+* Learning about ZK Proofs on the Solana blockchain.
+* Building a personal finance product.
+* Distributed systems research.
   
 ***
 
